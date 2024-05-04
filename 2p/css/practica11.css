@@ -1,0 +1,109 @@
+.nav{
+    background-color:rgb(147, 67, 72)
+    }
+    .texto{
+        color: rgb(250, 230, 230);
+        font-size: 14px;
+    }
+    .cabecera{
+        background-color: rgb(214, 209, 210);
+        text-align: center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    }
+    .izquierdo{
+        float: left;
+    }
+    .cuerpo{
+        background-color: rgb(215, 215, 210);
+       
+    }
+    .pie{
+        background-color: rgb(215, 210, 211);
+        height: 100px;
+    }
+    .derecho{
+        float: right;
+        text-align: center;
+        margin-right: 25px;
+        background-color: rgb(150, 62, 72);
+    }
+    .columna1 span{
+        bottom: -5px;
+        position: relative;
+        color: aqua;
+    }
+    .columna1{
+        text-align: center;
+        background-color: rgb(150, 62, 72);
+        font-size: 15px;
+        color: white;
+        width: 300px;
+    }
+    .foto{
+        background-color: rgb(255, 255, 255);
+        width: 300px;
+    }
+    .navbar{
+        width: 20px;
+        height: 35px;
+    }
+    .navbar-brand{
+        font-size: 15px;
+    }
+    .columna2{
+        font-size: 13px;
+        color: white;
+    }
+    .rounded{
+        width: 100px;
+    }
+    .formulario{
+        text-align: left;
+       
+    }
+    .contenedor{
+        display: flex;
+        
+    }
+    .form-control{
+        width: 275px;
+        height: 30px;
+    }
+    .contenedor2{
+        display: flex;
+    }
+     .form-control{
+        width: 426px;
+        height: 30px;
+    }
+    .contenedor3{
+        display: flex;
+    }
+     .form-control{
+        width: 426px;
+        height: 30px;
+    }
+    .contenedor4{
+        display: flex;
+    }
+    .contenedor4 .form-control{
+    width: 200px;
+    height: 30px;
+  }
+  .contenedor5{
+    display: flex;
+  }
+  .contenedor5 .form-control{
+    width: 275px;
+    height: 30px;
+  }
+  .contnedor6{
+    display: flex;
+  }
+  .contnedor6 .form-control{
+    width: 300px;
+    height: 40px;
+  }
+  .text-small{
+    font-size: 12px;
+  }
