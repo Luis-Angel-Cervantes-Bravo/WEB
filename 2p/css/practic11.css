@@ -1,0 +1,26 @@
+.contenedor{
+    background-color:rgb(147, 67, 72)
+    
+}
+.contenedor .superior{
+    background-color: #ad5858;
+}
+.info svg{
+    width: 50px;
+    height: 60px;
+    color: #ad5858;
+}
+.info{
+    background-color: wheat;
+    border-color: black;
+    border-radius: 10px;
+}
+.informacion{
+    text-align: center;
+    background-color: rgb(253, 209, 154);
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(253, 209, 154);
+}
